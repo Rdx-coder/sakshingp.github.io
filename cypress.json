@@ -1,6 +1,6 @@
 
 {
-    "baseUrl": "https://sakshingp.github.io/assignment",
+    "baseUrl": "https://sakshingp.github.io/fixtures",
     "integrationFolder": "integration",
     "pluginsFile": "plugins/index.js",
     "supportFile": "support/index.js",
