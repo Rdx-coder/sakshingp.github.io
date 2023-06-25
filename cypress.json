@@ -1,0 +1,9 @@
+
+{
+    "baseUrl": "https://sakshingp.github.io/assignment",
+    "integrationFolder": "integration",
+    "pluginsFile": "plugins/index.js",
+    "supportFile": "support/index.js",
+    "chromeWebSecurity": false
+  }
+  
